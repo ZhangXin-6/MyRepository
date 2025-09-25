@@ -12,5 +12,10 @@ We provided some examples of Gaofen-7 satellite images for demonstration.
 
 <img src="fig/2D.jpg" width="400px"> <img src="fig/2-D.jpg" width="400px">
 
-## KITTI Result
+## KITTI and MiddleBury Result
+<img src="fig/000000_10.png" width="300px"> <img src="fig/0000019_10.png" width="300px">
+<img src="fig/000009_10.png" width="300px"> <img src="fig/0000025_10.png" width="300px"> 
+
+
+
 
